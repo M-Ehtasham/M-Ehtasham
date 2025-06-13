@@ -64,7 +64,7 @@ class AboutMe {
     </td>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
-      <br>Postman
+      <br>C++
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
@@ -85,10 +85,10 @@ class AboutMe {
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>Javascript
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
       <br>Typescript
-    </td>
+    </td> -->
     <!-- <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="adobexd" />
       <br>Adobe XD
@@ -103,10 +103,10 @@ class AboutMe {
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
       <br>AWS
     </td>    
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
-    </td>
+    </td> -->
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
       <br>MySQL
