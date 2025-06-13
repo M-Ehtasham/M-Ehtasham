@@ -93,10 +93,10 @@ class AboutMe {
       <img src="https://skillicons.dev/icons?i=xd" width="45" height="45" alt="adobexd" />
       <br>Adobe XD
     </td> -->
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=appwrite" width="45" height="45" alt="appwrite" />
       <br>App Write
-    </td>
+    </td> -->
      
                
   <td align="center" width="90">
